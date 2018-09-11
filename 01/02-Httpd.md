@@ -1,4 +1,12 @@
 
+
+## What is httpd?
+
+*Hypertext Transfer Protocol daemon (i.e. Web server).*
+
+HTTP Daemon is a software program that runs in the background of a web server and waits for the incoming server requests. The daemon answers the request automatically and serves the hypertext and multimedia documents over the internet using HTTP.
+
+
 # Httpd server installation
 
 1. Login server
