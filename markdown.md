@@ -3,7 +3,7 @@
 # Install server
 
 
-[Docker]https://docs.docker.com/docker-for-mac/install/
+[Docker](https://docs.docker.com/docker-for-mac/install/)
 
 Pull image
 docker pull centos:centos7

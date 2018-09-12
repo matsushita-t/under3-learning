@@ -98,3 +98,9 @@ HTTP Daemon is a software program that runs in the background of a web server an
 
   Stop command:
   **docker stop centos7**
+
+
+
+  yum install -y epel-release
+  rpm -Uvh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
+  yum install -y --enablerepo=remi,remi-php70 php php-cli php-common php-mcrypt php-mysql php-devel php-mbstring php-pdo php-xml php-gd composer
